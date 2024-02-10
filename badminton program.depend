@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1706270927 source:c:\users\mkuma\desktop\badminton program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
+1706868438 source:c:\users\mkuma\documents\c programs\badminton program\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+
